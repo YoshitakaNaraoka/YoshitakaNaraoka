@@ -10,6 +10,7 @@
  ^ Izumi City Makio Junior High School 和泉市立槇尾中学校  
 
 ## skills 技能
+ - QC Review 品質管理の視点からの分析および原因追及  
  - Carl Zeiss Duramax work experience 8 months カールツァイス 三次元測定機 実務経験 8 カ月  
  ^ CNC programs can be created プログラム作成可能  
  ^ Roundness tracing measurement possible 真円度倣い測定可能  
