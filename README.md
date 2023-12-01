@@ -16,7 +16,7 @@
  ^ ( Irregular shape, long length, consultation required )  
  - Knowledge of machines, materials, and surface treatments  
  - TypeScript ( maybe )  
- - Labor management based on the Labor Standards Act
+ - Labor management based on the Labor Standards Act  
  ^ Can reduce legal risks for the company
 
 ## hobby
