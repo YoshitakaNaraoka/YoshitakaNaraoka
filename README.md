@@ -32,7 +32,7 @@ Currently, my team is developing TypeScript OSS to catch up on technology.
  - Math 数学  
 
 ## dream 夢，目標
- - Geometric tolerance under 0.005 automation with simultaneous control of robot and polishing machine.
+ - Geometric tolerance under 0.005 automation with simultaneous control of robot and polishing machine.  
    ロボットと研磨機の同時制御による幾何公差 0.005 以下の製品製造の自動化
  - full monitoring factory 完全モニタリング工場
  - Manufacturing DX 製造業デジタルトランスフォーメーション  
