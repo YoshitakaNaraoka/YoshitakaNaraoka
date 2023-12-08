@@ -1,6 +1,8 @@
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka&theme=onedark&show_icons=ture" />
 </p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoshitakaNaraoka&theme=2077)
+
 
 ## profiles 経歴  
  - 切削加工会社 ( Quality Control ) 品質管理  
