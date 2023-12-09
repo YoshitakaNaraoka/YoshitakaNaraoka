@@ -5,7 +5,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoshitakaNaraoka&theme=2077)
 
 ## profiles 経歴  
- - 切削加工会社 ( Quality Control ) 品質管理  
+ - Cutting supplier ( Quality Control ) 切削加工会社 品質管理  
  ^ Osaka Institute Technology ( Department of Applied Chemistry ) 大阪工業大学応用化学科 学部卒  
  ^ Sakai Technology High School ( Environmental chemistry system ) 堺工科高等学校 環境化学システム系  
  ^ Izumi City Makio Junior High School 和泉市立槇尾中学校  
