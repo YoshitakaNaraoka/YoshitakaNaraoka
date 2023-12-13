@@ -1,7 +1,7 @@
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka&theme=onedark&show_icons=ture" />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=YoshitakaNaraoka)](https://github.com/YoshitakaNaraoka/github-profile-trophy)  
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoshitakaNaraoka&theme=2077)  
 
 ## profiles 経歴  
