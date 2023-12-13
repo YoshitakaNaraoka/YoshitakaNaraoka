@@ -1,8 +1,9 @@
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka&count_private=true&theme=onedark&show_icons=ture" />  
 <p align="left">
+  
   <a href="https://github.com/YoshitakaNaraoka/YoshitakaNaraoka/">
-    <img src="https://github.com/YoshitakaNaraoka/ghpvc/?username=YoshitakaNaraoka" alt="YoshitakaNaraoka" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=YoshitakaNaraoka" alt="YoshitakaNaraoka" />
   </a>
   <a href="http://twitter.com/k1y6k">
     <img height="20" src="https://img.shields.io/twitter/follow/k1y6k?label=Twitter&logo=twitter&style=flat" />
