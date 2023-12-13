@@ -11,8 +11,8 @@
   <a href="https://github.com/YoshitakaNaraoka">
     <img height="20" src="https://img.shields.io/github/followers/YoshitakaNaraoka?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/Yoshitaka Naraoka">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Yoshitaka Naraoka?label=Reddit&logo=reddit&style=flat" />
+  <a href="https://www.reddit.com/user/k1y6k">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/k1y6k?label=Reddit&logo=reddit&style=flat" />
   </a>
   <a href="http://qiita.com/k1y6k">
     <img height="20" src="https://qiita-badge.apiapi.app/s/k1y6k/posts.svg" />
