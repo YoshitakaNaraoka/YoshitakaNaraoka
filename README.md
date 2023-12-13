@@ -1,5 +1,6 @@
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka&count_private=true&theme=onedark&show_icons=ture" />  
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka&count_private=true&theme=onedark&show_icons=ture" />
+  <img alt="github stats" height="150px" src="[https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoshitakaNaraoka)&count_private=true&theme=onedark&show_icons=ture" />
 <p align="left">
   <a href="https://github.com/YoshitakaNaraoka/YoshitakaNaraoka/">
     <img height="20" src="https://komarev.com/ghpvc/?username=YoshitakaNaraoka" alt="YoshitakaNaraoka" />
