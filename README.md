@@ -1,8 +1,6 @@
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka&theme=onedark&show_icons=ture" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka&count_private=true&theme=onedark&show_icons=ture" />
 </p>  
-
-![YoshitakaNaraoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka&count_private=true)  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoshitakaNaraoka&theme=2077)  
 
