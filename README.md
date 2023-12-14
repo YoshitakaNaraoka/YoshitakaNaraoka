@@ -26,9 +26,7 @@
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"> <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat"> <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 
 ## Environment
-<img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
-<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+<img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat"> <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
 
 ## profiles 経歴  
  - Cutting supplier ( Quality Control ) 切削加工会社 品質管理  
