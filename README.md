@@ -22,6 +22,8 @@
   </a>
 </p>
 
+# I love mechanism!
+
 ## Now Learning
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"> <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat"> <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 <img src="https://img.shields.io/badge/-Rust-red.svg?logo=rust&amp;style=plastic"> <img src="https://img.shields.io/badge/-Prettier-F7B93E.svg?logo=prettier&amp;style=plastic"> <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&amp;style=plastic"> <img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&amp;style=plastic">
