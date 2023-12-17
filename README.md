@@ -68,4 +68,12 @@ Currently, my team is developing TypeScript OSS to catch up on technology.
  - Geometric tolerance under 0.005 automation with simultaneous control of robot and polishing machine.  
    ロボットと研磨機の同時制御による幾何公差 0.005 以下の製品製造の自動化
  - full monitoring factory 完全モニタリング工場
- - Manufacturing DX 製造業デジタルトランスフォーメーション  
+ - Manufacturing DX 製造業デジタルトランスフォーメーション
+
+## 自己 PR
+ - 情報を渉猟する気持ちが強いこと
+   - 最近は [Chietta](https://www.chietta.app/) とか使っています．
+   - 気になったらゴリゴリ調べるしわかんなかったらとにかく作って”実測する”ことを心掛けています．
+ - アウトプットしたい気持ちが強いこと
+   - 朝活 TIL ( Today I learned ) として何かしら 1 記事は何か上げるようにしています．
+   - 朝活プログラミングでわかんなかった箇所のメモとどうしたら動いたか，を記事の内容にして，忘れた未来の自分と新しく始める人のために残しています．
