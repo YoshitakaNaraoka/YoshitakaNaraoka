@@ -17,7 +17,7 @@
 
 ### フレームワーク，Middleware，Hardware
 - Node.js 一応使ってはいるが完璧か？と問われると怖いところはあります
-- Prettier，ESlint，等々 linter でバッと直すと良い気持ちになってしまう
+- Prettier，ESlint，等々 linter や formatter でバッと直すと良い気持ちになってしまう
 - Docker とか興味あります
 - など
 
