@@ -25,6 +25,8 @@
 # I love mechanism!
 
 ## Work history [職務経歴書](docs/Work_history.md)
+ - If you are required to keep documents, we would appreciate it if you could print the page from the link above.
+ - 書類保管が義務付けられている場合は，上記リンクからページを印刷していただけると幸いです．
 
 ## Now Learning
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"> <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat"> <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
