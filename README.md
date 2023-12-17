@@ -70,7 +70,7 @@ Currently, my team is developing TypeScript OSS to catch up on technology.
  - full monitoring factory 完全モニタリング工場
  - Manufacturing DX 製造業デジタルトランスフォーメーション
 
-## 自己 PR
+## Self promote 自己 PR
  - 情報を渉猟する気持ちが強いこと
    - 最近は [Chietta](https://www.chietta.app/) とか使っています．
    - 気になったらゴリゴリ調べるしわかんなかったらとにかく作って”実測する”ことを心掛けています．
