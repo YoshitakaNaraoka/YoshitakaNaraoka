@@ -63,7 +63,8 @@ Currently, my team is developing TypeScript OSS to catch up on technology.
 ## interest 興味  
  - Robotics ロボティクス  
  - Web
- - Math 数学  
+ - Math 数学
+ - Rust
 
 ## dream 夢，目標
  - Geometric tolerance under 0.005 automation with simultaneous control of robot and polishing machine.  
