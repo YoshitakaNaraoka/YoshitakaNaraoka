@@ -26,6 +26,8 @@
   </a>
 </p>
   
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoshitakaNaraoka&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoshitakaNaraoka&theme=gruvbox)
 ![trophy](https://github-profile-trophy.vercel.app/?username=YoshitakaNaraoka&theme=gruvbox)
 
 # I love mechanism!
