@@ -25,6 +25,8 @@
     <img height="20" src="https://badgen.org/img/zenn/placeless/articles?style=plastic" />
   </a>
 </p>
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=YoshitakaNaraoka&theme=gruvbox)
 
 # I love mechanism!
 
