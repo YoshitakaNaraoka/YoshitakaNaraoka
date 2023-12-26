@@ -21,6 +21,9 @@
   <//qiita.com/k1y6k">
     <img height="20" src="https://qiita-badge.apiapi.app/s/k1y6k/contributions.svg" />
   </a>
+  <a href="https://zenn.dev/placeless">
+    <img height="20" src="https://badgen.org/img/zenn/placeless/articles?style=plastic" />
+  </a>
 </p>
 
 # I love mechanism!
