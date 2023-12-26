@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img alt="github stats" height="150px width=3000px" src="https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka&count_private=true&theme=onedark&show_icons=true" />
+  <img alt="github stats" height="150px" width="3000px" src="https://github-readme-stats.vercel.app/api?username=YoshitakaNaraoka&count_private=true&theme=onedark&show_icons=true" />
   <img alt="github details" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoshitakaNaraoka&count_private=true&theme=onedark&show_icons=true" />
   <img alt="github top langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshitakaNaraoka&count_private=true&layout=compact&theme=onedark&show_icons=true" />
 <p align="left">
