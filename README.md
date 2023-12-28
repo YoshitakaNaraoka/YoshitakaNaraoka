@@ -4,7 +4,7 @@
   <img alt="github top langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshitakaNaraoka&count_private=true&layout=compact&theme=onedark&show_icons=true" />
   <img alt="repos per langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoshitakaNaraoka&count_private=true&layout=compact&theme=onedark&show_icons=true" />
   <img alt="commits per langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoshitakaNaraoka&count_private=true&layout=compact&theme=onedark&show_icons=true" />
-  <img alt="trophies" height="150px" src="https://github-profile-trophy.vercel.app/?username=YoshitakaNaraoka&count_private=true&layout=compact&theme=onedark&show_icons=true" />
+  <img alt="trophies" height="300px" src="https://github-profile-trophy.vercel.app/?username=YoshitakaNaraoka&count_private=true&layout=compact&theme=onedark&show_icons=true" />
 <p align="left">
   <a href="https://github.com/YoshitakaNaraoka/YoshitakaNaraoka/">
     <img height="20" src="https://komarev.com/ghpvc/?username=YoshitakaNaraoka" alt="YoshitakaNaraoka" />
