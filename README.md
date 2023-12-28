@@ -18,7 +18,7 @@
   <a href="http://qiita.com/k1y6k">
     <img height="20" src="https://qiita-badge.apiapi.app/s/k1y6k/posts.svg" />
   </a>
-  <//qiita.com/k1y6k">
+  <a href="http://qiita.com/k1y6k">
     <img height="20" src="https://qiita-badge.apiapi.app/s/k1y6k/contributions.svg" />
   </a>
   <a href="https://zenn.dev/placeless">
