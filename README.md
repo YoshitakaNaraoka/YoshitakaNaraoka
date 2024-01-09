@@ -30,6 +30,7 @@
 </p>
 
 # I love mechanism!
+ - Google sheets の関数面白いと思ったりロボットアーム面白いと思ってたら今なってた……何もわからん……たぶんソフトウェアともハードウェアともつかん領域でクネクネ
 
 ## Work history [職務経歴書](docs/Work_history.md)
  - If you are required to keep documents, we would appreciate it if you could print the page from the link above.
