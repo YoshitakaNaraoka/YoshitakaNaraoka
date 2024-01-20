@@ -74,6 +74,7 @@ Currently, my team is developing TypeScript OSS to catch up on technology.
  - Web
  - Math 数学
  - Rust
+ - <img src="https://img.shields.io/badge/-Zorin%20OS-0CC1F3.svg?logo=zorin&style=plastic">
 
 ## dream 夢，目標
  - Geometric tolerance under 0.005 automation with simultaneous control of robot and polishing machine.  
