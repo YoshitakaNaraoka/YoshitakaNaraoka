@@ -27,6 +27,8 @@
   <a href="https://zenn.dev/placeless">
     <img height="20" src="https://badgen.org/img/zenn/placeless/articles?style=plastic" />
   </a>
+    <img src="https://img.shields.io/badge/-k1y6k-7289DA.svg?logo=discord&style=plastic">
+  </a>
 </p>
 
 # I love mechanism!
