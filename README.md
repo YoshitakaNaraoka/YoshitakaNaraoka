@@ -62,8 +62,9 @@
  - Labor management based on the Labor Standards Act 労働基準法に基づいた労務管理  
  ^ Can reduce legal risks for the company 会社の法的リスクを低減可能  
 
-## hobby 趣味 <img src="https://img.shields.io/badge/-Steam-000000.svg?logo=steam&style=plastic">
- - thinking 思考  
+## hobby 趣味
+ - thinking 思考
+ - <img src="https://img.shields.io/badge/-Steam-000000.svg?logo=steam&style=plastic">  
  - study 学習  
  - growth 成長  
 Currently, my team is developing TypeScript OSS to catch up on technology.  
