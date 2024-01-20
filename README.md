@@ -74,7 +74,7 @@ Currently, my team is developing TypeScript OSS to catch up on technology.
  - Robotics ロボティクス  
  - Web
  - Math 数学
- - Rust
+ - <img src="https://img.shields.io/badge/-Rust-red.svg?logo=rust&amp;style=plastic">
  - <img src="https://img.shields.io/badge/-Zorin%20OS-0CC1F3.svg?logo=zorin&style=plastic">
 
 ## dream 夢，目標
